@@ -1,0 +1,8 @@
+@charset "UTF-8";
+#align_vertical {
+    height: -webkit-fill-available;
+}
+
+#login {
+    padding: .375rem 1.75rem!important;
+}
